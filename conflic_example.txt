@@ -1,5 +1,3 @@
 
     Hellow change the below value
-
-    x = 10 # hot fix value 
-
+    x = 20   # master branch value # Dev branch value chenged to 20 override with hot fix value
